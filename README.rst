@@ -2,7 +2,7 @@
 Genetic Algorithms library for SC Server
 ========================================
 
-(c) 2006 Dan Stowell
+© 2006 Dan Stowell
 
 
 To install:
