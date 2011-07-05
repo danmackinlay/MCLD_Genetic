@@ -25,8 +25,9 @@ The "GA subclasses" folder contains example applications
 such as evolving to match a given envelope, evolving to 
 match the pitch track of a given sound sample, etc.
 
-Some of the "judge synths" make use of a UGen called 
-"FFTDiffMags" which is available in my UGen pack.
+Some of the "judge synths" make use of a UGen called "FFTDiffMags" which is
+available in my UGen pack, now included in the `sc-plugins project
+<http://sc3-plugins.sourceforge.net/>`_.
 
 See also my talk at the SC symposium 2006, available online
 at http://www.mcld.co.uk/supercollider, which outlines some
